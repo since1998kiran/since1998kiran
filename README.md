@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Animated Banner -->
+<!-- 🎨 Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kiran%20Pariyar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Mid-Level%20Java%20Engineer%20%7C%20Fintech%20%7C%20Nepal%20🇳🇵&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Visitor Badge -->
+<!-- 👀 Visitor Counter -->
 [![](https://visitcount.itsvg.in/api?id=since1998kiran&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
@@ -14,19 +14,18 @@
 
 Mid-Level Java Engineer from 🇳🇵 Nepal, currently working in fintech & payment systems.
 
-
-Focused on building reliable, high-performance backend systems and writing resilient code that scales in production.
+**Focused on building reliable, high-performance backend systems and writing resilient code that scales in production.**
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔧 **3 years** building scalable Java backend systems with Spring Boot & ReactJS
-- 💳 Specialized in **fintech & payment workflows** — transaction systems, secure inter-process communication & crash recovery
-- ⚙️ Proficient in **Core Java**, multithreading, concurrent processing & Agile/CI-CD environments
-- 📄 Author of thorough technical docs for system architecture, API integrations & compliance
-- 🤖 Exploring **AI** and advanced system design on the side
-- 🌱 Started as an **Android Developer Intern** → grew into backend Java engineering
+- 🔧 **3 years** building scalable Java backend systems with Spring Boot & ReactJS  
+- 💳 Specialized in **fintech & payment workflows** — transaction systems, secure inter-process communication & crash recovery  
+- ⚙️ Proficient in **Core Java**, multithreading, concurrent processing & Agile/CI-CD environments  
+- 📄 Author of thorough technical docs for system architecture, API integrations & compliance  
+- 🤖 Exploring **AI** and advanced system design on the side  
+- 🌱 Started as an **Android Developer Intern** → grew into backend Java engineering  
 
 ---
 
@@ -46,7 +45,7 @@ Focused on building reliable, high-performance backend systems and writing resil
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Databases & Cloud
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
@@ -61,27 +60,27 @@ Focused on building reliable, high-performance backend systems and writing resil
 
 </div>
 
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=since1998kiran&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=since1998kiran&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="165" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=since1998kiran&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=since1998kiran&theme=tokyonight&hide_border=true" width="60%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=since1998kiran&layout=compact&theme=dracula&hide_border=true&langs_count=7" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=since1998kiran&theme=dracula&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=since1998kiran&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8)](https://github.com/since1998kiran)
+[![trophy](https://github-profile-trophy.vercel.app/?username=since1998kiran&theme=dracula&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=since1998kiran)
 
 </div>
 
