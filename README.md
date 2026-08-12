@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🎨 Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kiran%20Pariyar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Mid-Level%20Java%20Engineer%20%7C%20Fintech%20%7C%20Nepal%20🇳🇵&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kiran%20Pariyar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Android%20Developer%20%7C%20Kotlin%20%26%20Jetpack%20Compose%20%7C%20Nepal%20🇳🇵&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- 👀 Visitor Counter -->
 [![](https://visitcount.itsvg.in/api?id=since1998kiran&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
@@ -12,20 +12,20 @@
 
 ## 👋 Hi, I'm Kiran
 
-Mid-Level Java Engineer from 🇳🇵 Nepal, currently working in fintech & payment systems.
+Android Developer from 🇳🇵 Nepal, building native fintech & payment applications in production.
 
-**Focused on building reliable, high-performance backend systems and writing resilient code that scales in production.**
+**Focused on shipping secure, high-reliability Android apps and writing clean, testable code that scales.**
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔧 **3 years** building scalable Java backend systems with Spring Boot & ReactJS  
-- 💳 Specialized in **fintech & payment workflows** — transaction systems, secure inter-process communication & crash recovery  
-- ⚙️ Proficient in **Core Java**, multithreading, concurrent processing & Agile/CI-CD environments  
-- 📄 Author of thorough technical docs for system architecture, API integrations & compliance  
-- 🤖 Exploring **AI** and advanced system design on the side  
-- 🌱 Started as an **Android Developer Intern** → grew into backend Java engineering  
+- 📱 **3+ years** building native Android applications end-to-end — architecture, UI, backend integration, testing, and release
+- 💳 Specialized in **fintech & POS systems** — secure transaction flows (NFC, EMV, ISO 8583), crash recovery, and 50,000+ monthly transactions in production
+- ⚙️ Strong foundation in **Java, MVVM, and Clean Architecture**, now expanding into **Kotlin, Jetpack Compose, and Kotlin Multiplatform Mobile**
+- 🔌 Experienced integrating RESTful APIs, designing API contracts, and working across client-server systems with backend teams
+- 📄 Author of thorough technical docs for system architecture, API integrations & compliance
+- 🌱 Started as an **Android Developer Intern** → grew into full ownership of native Android feature delivery
 
 ---
 
@@ -33,30 +33,32 @@ Mid-Level Java Engineer from 🇳🇵 Nepal, currently working in fintech & paym
 
 <div align="center">
 
-### Languages & Frameworks
+### Android & Mobile
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-### Databases & Cloud
+### Architecture & Data
+![MVVM](https://img.shields.io/badge/MVVM-Clean%20Architecture-1F3B57?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
+![JSON](https://img.shields.io/badge/REST%20%2F%20JSON-black?style=for-the-badge&logo=json&logoColor=white)
+
+### Additional (Self-Directed / Side Projects)
+![.NET](https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 </div>
 
